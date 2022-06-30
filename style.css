@@ -1,0 +1,123 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", sans-serif;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999E;
+}
+a{
+  color:#11999E;
+  margin: 0 15px 0 15px;
+  text-decoration: none;
+}
+a:hover{
+  background: linear-gradient(#3cb0fd, #3498db);
+}
+hr{
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  color: #99FFCD;
+}
+p{
+  line-height: 2;
+}
+/*****************************************************class selectors*************************************************/
+.top-container {
+  background-color: #b6ffce;
+  position: relative;
+  padding-top: 100px;
+  margin: 0 0 5px 0;
+}
+.middle-container{
+  padding: 25px 0 0 0;
+}
+.profile{
+  margin-bottom: 20px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 30px;
+  margin-top: 50px;
+}
+.my-name-in-last{
+  color: #EAF6F6;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 40px;
+}
+.mypic{
+  height:200px;
+  width: 120px;
+}
+.skill-pic-2{
+  height: 200px;
+  width: 200px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.skill-pic-1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill-pic-2{
+  width: 25%;
+  height: 50%;
+  float: right;
+  margin-left: 30px;
+}
+.btn{
+  font-family: "Montserrat";
+  color: #ffffff;
+  font-size: 20px;
+  padding:10px 20px 10px 20px;
+  border-radius: 28px;
+  background: linear-gradient(#3498db, #2980b9);
+}
+.skill-1-text{
+  color: #40514E;
+}
+.skill-2-text{
+  color: #40514E;
+}
+.contact-text{
+  color: #40514E;
+  margin-bottom: 50px;
+}
+.intro{
+  color: #40514E;
+  margin-bottom: 60px;
+}
+.contact-me{
+  margin-top: 60px;
+}
+.skills{
+  margin-top: 60px;
+}
